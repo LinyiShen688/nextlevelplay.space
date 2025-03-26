@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Helmet>
-        <title>Monster Survivors - Next Level Play</title>
+        <title>Monster Survivors - Next Level Play Space</title>
         <meta name="description" content="Experience the ultimate survival adventure in Monster Survivors. Battle hordes of monsters, level up your character, and become the last survivor in this thrilling action game." />
         <meta name="keywords" content="Monster Survivors, online game, survival game, action game, monster game" />
         <link rel="canonical" href="https://nextlevelplay.space" />
@@ -26,6 +26,7 @@ function App() {
           <p className="text-xl md:text-2xl text-center text-gray-300 mb-8">
             Survive the Monster Apocalypse in this Thrilling Action Adventure
           </p>
+
         </header>
 
         {/* Game Section */}
