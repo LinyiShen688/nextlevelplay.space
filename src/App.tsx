@@ -34,7 +34,7 @@ function App() {
           {/* Game Frame */}
           <div className="aspect-video w-full max-w-4xl mx-auto mb-12 rounded-lg overflow-hidden shadow-2xl">
             <iframe
-              src="https://icloud.onlinegames.io/games/2025/unity/monster-survivors/index-og.html"
+              src="https://cloud.onlinegames.io/games/2025/unity/monster-survivors/index-og.html"
               className="w-full h-full"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
