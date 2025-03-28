@@ -24,7 +24,8 @@ export const GAMES: Game[] = [
     tags: ['survival', 'action', 'roguelike'],
     isFeatured: true,
     rating: 4.8,
-    iframe: 'https://cloud.onlinegames.io/games/2025/unity/monster-survivors/index-og.html'
+    // iframe: 'https://cloud.onlinegames.io/games/2025/unity/monster-survivors/index-og.html'
+    iframe:"https://flash.7k7k.com/cms/cms10/20121218/1725309222/tagslbhr2wudi.swf?v7"
   },
   {
     id: 2,
