@@ -11,20 +11,21 @@ export const CATEGORIES: Category[] = [
   { id: '8', name: 'RPG', slug: 'rpg' },
   { id: '9', name: 'Simulation', slug: 'simulation' },
   { id: '10', name: 'Arcade', slug: 'arcade' },
+  { id: '11', name: 'Card', slug: 'card' },
 ];
 
 // Sample data - in a real app, this would come from an API
 export const GAMES: Game[] = [
   {
     id: 1,
-    title: 'Monster Survivors',
-    description: 'Battle against endless waves of monsters in this thrilling survival action game.',
-    coverImage: 'https://via.placeholder.com/300x200?text=Monster+Survivors',
-    category: 'action',
-    tags: ['survival', 'action', 'roguelike'],
+    title: 'Texas Hold\'em Poker',
+    description: 'Experience the thrill of the world\'s most popular poker game. Test your skills, bluff your opponents, and win big in this strategic card game.',
+    coverImage: 'https://via.placeholder.com/300x200?text=Texas+Holdem+Poker',
+    category: 'card',
+    tags: ['poker', 'cards', 'strategy', 'casino'],
     isFeatured: true,
-    rating: 4.8,
-    iframe: 'https://cloud.onlinegames.io/games/2025/unity/monster-survivors/index-og.html'
+    rating: 4.9,
+    iframe: 'https://cdn.zone.msn.com/assets/games/thirdparty/arkadium/texasholdempoker/20220728T1045/default.html'
   },
   {
     id: 2,
