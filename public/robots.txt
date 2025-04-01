@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /category/
+Allow: /sitemap.xml
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://nextlevelplay.space/sitemap.xml 
